@@ -1,0 +1,24 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistraduriaApp", "src\RegistraduriaApp\RegistraduriaApp.csproj", "{523BABEB-5AAD-4365-B0E9-A6B5160917EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistraduriaApp.Tests", "tests\RegistraduriaApp.Tests\RegistraduriaApp.Tests.csproj", "{7FBBA3AC-765D-4C71-80A5-4D71CA412F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523BABEB-5AAD-4365-B0E9-A6B5160917EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523BABEB-5AAD-4365-B0E9-A6B5160917EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523BABEB-5AAD-4365-B0E9-A6B5160917EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523BABEB-5AAD-4365-B0E9-A6B5160917EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBBA3AC-765D-4C71-80A5-4D71CA412F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBBA3AC-765D-4C71-80A5-4D71CA412F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBBA3AC-765D-4C71-80A5-4D71CA412F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBBA3AC-765D-4C71-80A5-4D71CA412F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

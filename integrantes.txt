@@ -1,0 +1,8 @@
+Integrantes del equipo
+======================
+1. [Tu nombre completo]
+2. [Nombre compañero 2]
+3. [Nombre compañero 3]
+
+Curso: Testing y Validación de Software
+Universidad de La Sabana – Maestría en Ingeniería de Software
